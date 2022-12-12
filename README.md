@@ -1,8 +1,32 @@
-# Projeto de Inovação (Inovatec 2022)
+# InovaPet (Projeto de Inovação - InovaTec 2022)
 
 ## Integrantes 
 
-Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
+- **Gestão Executiva:**
+
+Ana Karoline Correia da Silva (Carpina-PE)
+
+Ísis Faria Rodrigues (Nova Iguaçu-RJ)
+
+Raimundo Nonato da Silva Borges (Teresina-PI)
+
+- **Gestão Organizacional:**
+
+Gustavo dos Santos (Serrinha-BA)
+
+Ludmilla Thomazini (Porto Alegre - RS)
+
+Iolanda da Silva Castro (São Paulo - SP)
+
+Ulisses Santos (Salvador - BA)
+
+- **Gestão de Marketing:**
+
+Maiara Barbosa (Recife-PE)
+
+Abner Araujo Zolini (Timóteo - MG)
+
+Paulo Leandro da Silva (Recife-PE)
 
 ## Passos
 
