@@ -68,10 +68,15 @@ Descrição do Pitch (quem vai falar o que na apresentação, ordem da apresenta
 **CAR: Por Aline Ferreira na Aula Refinando seu Pitch**
 
 - Contexto  
+
 No dia-a-dia, encontramos, além de muitos animaizinhos abandonados, também diversos posts em redes sociais de pais de pets desesperados atrás de informações, tentativas de doações e adoções de animais, muitas vezes desencontradas, e ativistas da causa revoltados expondo suas dores em ambientes não propícios para a apresentação de suas propostas. 
+
 - Ações 
+
 Com isso em mente, visamos construir uma estação que reúna essas pessoas, tanto humanas quanto não-humanas, com informações que acrescentem em sua vivência e convivência, de forma acessível e coletiva, enquanto agrega valor ao trabalho de empresários que funcionam em favor da causa.
+
 - Resultados 
+
 Assim esperamos alcançar o máximo possível de brasileiros, os acolhendo em pluralidade e zelo pelos mais indefesos e esquecidos de nossa sociedade, os animais domésticos, enquanto educamos esses tutores, damos voz aos cientistas e ativistas, incentivamos os empresários do ramo e combatemos o abandono e os maus-tratos.
 
 Por fim, links de slides e materiais complementares (que podem apoiar o entendimento do projeto de inovação) também podem ser disponibilizados nesta seção.
