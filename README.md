@@ -77,5 +77,7 @@ Assim esperamos alcançar o máximo possível de brasileiros, os acolhendo em pl
 Por fim, links de slides e materiais complementares (que podem apoiar o entendimento do projeto de inovação) também podem ser disponibilizados nesta seção.
 
 https://exame.com/bussola/abandono-de-animais-aumentou-cerca-de-60-durante-a-pandemia/
+
 https://www.petlove.com.br/dicas/numero-de-denuncias-de-maus-tratos-a-animais-aumenta-durante-a-pandemia
+
 https://www.camara.leg.br/radio/programas/455120-475-milhoes-de-animais-sao-mortos-por-ano-nas-estradas-brasileiras/
