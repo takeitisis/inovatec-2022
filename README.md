@@ -44,14 +44,41 @@ Basicamente, segue uma síntese de cada passo:
 
 **Quais as ferramentas necessárias para a execução desse projeto?** Articulação empresarial, um time de desenvolvimento disposto e mobilização social efetiva. 
  
-- **2º Passo:** Planejar o projeto de inovação, criando um cronograma; 
+- **2º Passo:** 
  
+**Quais etapas? 
+ As tarefas de cada etapa?**
+
+- O que: O InovaPet é uma plataforma online que visa unir tutores de animais domésticos, ativistas da causa animal, veterinários e PetShops. Sendo o principal objetivo o compartilhamento de informações sobre esses bichinhos, um sistema de adoção eficiente e o combate ao abandono e aos maus-tratos sofridos por muitos animais de estimação.
+
+- Por que: Entendemos como sendo de extrema importância a atenção e o cuidado voltado à estas pessoas não-humanas, tendo em mente que são seres vivos e não objetos de luxo descartáveis, e que, assim sendo, precisam de tutores responsáveis e conscientes. 
+
+- Quem: A plataforma terá duas opções de cadastro; Social e Informacional. Sendo a seção social onde serão abrigados indivíduos e coletivos que visam apenas utilizar a plataforma como rede social (Onde poderão postar fotos e vídeos de seus bichinhos, compartilhar informações sobre o tema e conhecer outros indivíduos e coletivos interessados na causa), central de informações (Onde poderão obter e compartilhar; Conhecimento sobre cuidados responsáveis com esses animais ;Informações de localidade, como números de emergência, por exemplo.) e/ou sistema de adoção (Onde serão efetuadas adoções e doações dessas pessoas não-humanas, além de trocas de acessórios, brinquedos e outros objetos de uso animal. Somente objetos, no entanto. Nada de trocar pets, consumíveis como ração, remédios ou qualquer outro produto que possa ser ingerido ou entrar em contato com a pele do pet. Visto o risco de manipulação com intenção de envenenamento. Estes produtos ficaram por conta apenas dos PetShops e veterinários.) 
+
+- A seção Informacional/Empresarial reunirá os indivíduos e coletivos que visam lucrar na plataforma, sejam institutos de acolhimento animal, que coletam doações, ou motoristas de TaxiPet, por exemplo, entre muitos outros. Enquanto o cadastro social busca informar o consumidor, o informacional é quem divulga essas informações, contando com promoções de PetShops e artigos veterinários voltados para o bem-estar animal. Um exemplo: Tendo em vista que o Carrefour recentemente acolheu também a rede de supermercados BIG, este seria o local ideal para que ambas as empresas conquistem clientes e efetuem vendas de produtos direcionados à este público especificamente. Afinal, ambas as marcas possuem parcerias com industrias ligadas ao tema e seções de PetShop em seus mercados físicos e virtuais. O ideal seria localizar estes postos de ambas as redes, em todo o Brasil, e incluí-los na plataforma, assim gerando um lucro maior as empresas e ainda um sentimento de atenção para com a causa animal.
+
+**E os prazos?
+Crie um cronograma para seu projeto e faça um acompanhamento dele:**
+
+- Quando: Montar um cronograma de ações após visão geral da situação da empresa. Ainda não temos informações concretas, mas sabemos que ela busca expansão das suas unidades de negócio.
+
+**Durante o processo de planejamento é fundamental detalhar a execução de processos técnicos e também práticos?
+O que vai ser necessário para cada etapa, em termos organizacionais e de recursos materiais também?**
+
+- Como: O InovaPet vai ser disponibilizado para o público nos formatos iOS, Android e também plataforma digital web (navegação em browser); A sustentabilidade do Aplicativo/Plataforma se dá por meio de anúncios segmentados, vendas de produtos e planos de assinaturas. Para tanto teremos uma frente de desenvolvimento que ficará encarregada de criar todo o código-fonte da plataforma, outra frente responsável pela articulação de parcerias/afiliações, uma frente de produção de conteúdo (copywriting).
+
+**Além disso, tente prever alguns problemas que você possa vir a enfrentar:**
+
+- Onde: Pode parecer ambicioso, mas a meta é alcançar todo o Brasil, da mesma forma como o Programa InovaTec fez ao nos conectar através do conhecimento. Entretanto, isso só será possível com uma estratégia de marketing bem definida, que instigue o público alvo a contribuir com informações locais, como por exemplo, números de emergência e denuncia. Estratégia esta, que também atraia a atenção de médicos veterinários e clínicas, para se sintam pertencentes à plataforma e compartilhem seu conhecimento e ofereçam seus trabalhos. Além de conquistar as marcas, que poderão usar a plataforma para anunciar, e isso em si já sendo atraente o suficiente para um empreendedor empenhado. É crucial que haja uma verificação constante das informações divulgadas, mantendo-se sempre alerta para quaisquer alterações nesses dados públicos.
+
 - **3º Passo:** 
  
  [InovaPet - Resumão 1.pdf](https://github.com/takeitisis/inovatec-2022/files/10212818/InovaPet.-.Resumao.1.pdf)
 
 
-https://user-images.githubusercontent.com/114936056/207194664-25d71197-81a9-46e2-a68a-a013e12ecfda.mp4
+
+https://user-images.githubusercontent.com/114936056/207692042-f0cbb8bb-0028-4b1a-a75b-b2be7110906d.mp4
+
 
 
  ![IMG-20221205-WA0023](https://user-images.githubusercontent.com/114936056/207181549-3629a199-09b1-4ea0-b654-a93e29add338.jpg)
