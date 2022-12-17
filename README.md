@@ -113,3 +113,9 @@ https://exame.com/bussola/abandono-de-animais-aumentou-cerca-de-60-durante-a-pan
 https://www.petlove.com.br/dicas/numero-de-denuncias-de-maus-tratos-a-animais-aumenta-durante-a-pandemia
 
 https://www.camara.leg.br/radio/programas/455120-475-milhoes-de-animais-sao-mortos-por-ano-nas-estradas-brasileiras/
+
+https://forbes.com.br/forbes-money/2022/10/brasil-e-o-terceiro-pais-com-mais-pets-setor-fatura-r-52-bilhoes/
+
+https://exame.com/bussola/com-cada-vez-mais-pais-e-maes-de-pets-mercado-continua-a-crescer-em-2022/
+
+https://abinpet.org.br/infos_gerais/
