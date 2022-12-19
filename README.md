@@ -8,7 +8,7 @@ Ana Karoline Correia da Silva (Carpina-PE)
 
 Ísis Faria Rodrigues (Nova Iguaçu-RJ)
 
-Raimundo Nonato da Silva Borges (Teresina-PI)
+Abner Araujo Zolini (Timóteo - MG)
 
 - **Gestão Organizacional:**
 
@@ -24,7 +24,7 @@ Ulisses Santos (Salvador - BA)
 
 Maiara Barbosa (Recife-PE)
 
-Abner Araujo Zolini (Timóteo - MG)
+Raimundo Nonato da Silva Borges (Teresina-PI)
 
 Paulo Leandro da Silva (Recife-PE)
 
@@ -84,7 +84,11 @@ https://user-images.githubusercontent.com/114936056/207692042-f0cbb8bb-0028-4b1a
  ![IMG-20221205-WA0023](https://user-images.githubusercontent.com/114936056/207181549-3629a199-09b1-4ea0-b654-a93e29add338.jpg)
  ![IMG-20221121-WA0011](https://user-images.githubusercontent.com/114936056/207183691-6dba6a27-d0b8-4233-8189-9b1cdac0e82c.jpg)
  
-- **4º Passo:** Avaliar o projeto de inovação, coletando e analisando os feedbacks;
+- **4º Passo:** 
+
+[Programa InovaPet_Resultados de Pesquisa.pdf](https://github.com/takeitisis/inovatec-2022/files/10255127/Programa.InovaPet_Resultados.de.Pesquisa.pdf)
+
+https://forms.gle/wLymR1mWYpmftgKNA
  
 - **5º Passo:** Apresentar do projeto na feira de inovação 🚀
 
@@ -107,6 +111,8 @@ Com isso em mente, visamos construir uma estação que reúna essas pessoas, tan
 Assim esperamos alcançar o máximo possível de brasileiros, os acolhendo em pluralidade e zelo pelos mais indefesos e esquecidos de nossa sociedade, os animais domésticos, enquanto educamos esses tutores, damos voz aos cientistas e ativistas, incentivamos os empresários do ramo e combatemos o abandono e os maus-tratos.
 
 Por fim, links de slides e materiais complementares (que podem apoiar o entendimento do projeto de inovação) também podem ser disponibilizados nesta seção.
+
+[InovaPet.pdf](https://github.com/takeitisis/inovatec-2022/files/10255208/InovaPet.pdf)
 
 https://exame.com/bussola/abandono-de-animais-aumentou-cerca-de-60-durante-a-pandemia/
 
